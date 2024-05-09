@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761423964634",
+    "project_id": "dhwani-astro-3c92a",
+    "storage_bucket": "dhwani-astro-3c92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761423964634:android:d416e60774ff69e0b778e3",
+        "android_client_info": {
+          "package_name": "com.example.dhwani_astro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34tb8aARt7eOA2ZZFyle_ckFi7uL_jAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
