@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAzyLO36G7ew67D0x_wn_iMNiX9R2GKjDI',
-    appId: '1:761423964634:web:9c322d8186106249b778e3',
-    messagingSenderId: '761423964634',
-    projectId: 'dhwani-astro-3c92a',
-    authDomain: 'dhwani-astro-3c92a.firebaseapp.com',
-    storageBucket: 'dhwani-astro-3c92a.appspot.com',
-    measurementId: 'G-J2SXBHQLF3',
+    apiKey: '<REPLACE WITH YOUR APIKEY>',
+    appId: '<REPLACE WITH YOUR APPID>',
+    messagingSenderId: '<REPLACE WITH YOUR MESSAGING-SENDER-ID>',
+    projectId: '<REPLACE WITH YOUR PROJECT-ID>',
+    authDomain: '<REPLACE WITH YOUR AUTH-DOMAIN>',
+    storageBucket: '<REPLACE WITH YOUR STORAGE-BUCKET>',
+    measurementId: '<REPLACE WITH YOUR MEASUREMENT-ID>',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD34tb8aARt7eOA2ZZFyle_ckFi7uL_jAw',
-    appId: '1:761423964634:android:d416e60774ff69e0b778e3',
-    messagingSenderId: '761423964634',
-    projectId: 'dhwani-astro-3c92a',
-    storageBucket: 'dhwani-astro-3c92a.appspot.com',
+    apiKey: '<REPLACE WITH YOUR APIKEY>',
+    appId: '<REPLACE WITH YOUR APPID>',
+    messagingSenderId: '<REPLACE WITH YOUR MESSAGING-SENDER-ID>',
+    projectId: '<REPLACE WITH YOUR PROJECT-ID>',
+    storageBucket: '<REPLACE WITH YOUR STORAGE-BUCKET>',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAlQWvUUL7LKta1xmk7s8K6d6qn-SPAEY0',
-    appId: '1:761423964634:ios:752a3887b734939cb778e3',
-    messagingSenderId: '761423964634',
-    projectId: 'dhwani-astro-3c92a',
-    storageBucket: 'dhwani-astro-3c92a.appspot.com',
-    iosBundleId: 'com.example.dhwaniAstro',
+    apiKey: '<REPLACE WITH YOUR APIKEY>',
+    appId:'<REPLACE WITH YOUR APPID>',
+    messagingSenderId: '<REPLACE WITH YOUR MESSAGING-SENDER-ID>',
+    projectId: '<REPLACE WITH YOUR PROJECT-ID>',
+    storageBucket: '<REPLACE WITH YOUR STORAGE-BUCKET>',
+    iosBundleId:  '<REPLACE WITH YOUR IOS-BUNDLE-ID>',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAlQWvUUL7LKta1xmk7s8K6d6qn-SPAEY0',
-    appId: '1:761423964634:ios:752a3887b734939cb778e3',
-    messagingSenderId: '761423964634',
-    projectId: 'dhwani-astro-3c92a',
-    storageBucket: 'dhwani-astro-3c92a.appspot.com',
-    iosBundleId: 'com.example.dhwaniAstro',
+    apiKey: '<REPLACE WITH YOUR APIKEY>',
+    appId:'<REPLACE WITH YOUR APPID>',
+    messagingSenderId: '<REPLACE WITH YOUR MESSAGING-SENDER-ID>',
+    projectId: '<REPLACE WITH YOUR PROJECT-ID>',
+    storageBucket: '<REPLACE WITH YOUR STORAGE-BUCKET>',
+    iosBundleId:  '<REPLACE WITH YOUR IOS-BUNDLE-ID>',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAzyLO36G7ew67D0x_wn_iMNiX9R2GKjDI',
-    appId: '1:761423964634:web:970f92dfaa39a9c2b778e3',
-    messagingSenderId: '761423964634',
-    projectId: 'dhwani-astro-3c92a',
-    authDomain: 'dhwani-astro-3c92a.firebaseapp.com',
-    storageBucket: 'dhwani-astro-3c92a.appspot.com',
-    measurementId: 'G-VEBVLYMLPH',
+    apiKey: '<REPLACE WITH YOUR APIKEY>',
+    appId: '<REPLACE WITH YOUR APPID>',
+    messagingSenderId: '<REPLACE WITH YOUR MESSAGING-SENDER-ID>',
+    projectId: '<REPLACE WITH YOUR PROJECT-ID>',
+    authDomain: '<REPLACE WITH YOUR AUTH-DOMAIN>',
+    storageBucket: '<REPLACE WITH YOUR STORAGE-BUCKET>',
+    measurementId: '<REPLACE WITH YOUR MEASUREMENT-ID>',
   );
 }
